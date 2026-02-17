@@ -1,0 +1,8 @@
+# String to Integer Typecasting Example
+
+num_str = "25"
+
+num_int = int(num_str)
+
+print("Original value:", num_str, type(num_str))
+print("Converted value:", num_int, type(num_int))
